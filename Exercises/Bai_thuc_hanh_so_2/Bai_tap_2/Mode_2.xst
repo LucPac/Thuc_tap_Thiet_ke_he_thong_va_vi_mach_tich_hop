@@ -1,0 +1,5 @@
+set -tmpdir "E:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/bt2/xst/projnav.tmp"
+set -xsthdpdir "E:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/bt2/xst"
+elaborate
+-ifn Mode_2.prj
+-ifmt mixed

@@ -1,0 +1,15 @@
+NET "sw[0]" LOC = L13;
+NET "sw[0]" IOSTANDARD = LVTTL;
+NET "sw[0]" PULLUP;
+NET "sw[1]" LOC = L14;
+NET "sw[1]" IOSTANDARD = LVTTL;
+NET "sw[1]" PULLUP;
+
+
+NET "clk_50m" LOC = C9;
+NET "clk_50m" IOSTANDARD = LVCMOS33;
+
+NET "clk" LOC = C11;
+NET "clk" IOSTANDARD = LVCMOS33;
+NET "clk" DRIVE = 8;
+NET "clk" SLEW = FAST;

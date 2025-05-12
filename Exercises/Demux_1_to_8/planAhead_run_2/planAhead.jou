@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Sat Oct 26 08:23:45 2024
+# Process ID: 12656
+# Log file: D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Demux_1_to_8/planAhead_run_2/planAhead.log
+# Journal file: D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Demux_1_to_8/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Demux_1_to_8/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin L13 [get_ports din]
+endgroup
+startgroup
+set_property package_pin N17 [get_ports {sel[2]}]
+endgroup
+startgroup
+set_property package_pin H18 [get_ports {sel[2]}]
+endgroup
+startgroup
+set_property package_pin N17 [get_ports {sel[2]}]
+endgroup
+startgroup
+set_property package_pin H18 [get_ports {sel[1]}]
+endgroup
+startgroup
+set_property package_pin L14 [get_ports {sel[0]}]
+endgroup
+set_property pulltype PULLUP [get_ports [list {sel[2]}]]
+set_property pulltype PULLUP [get_ports [list {sel[2]} {sel[1]} {sel[0]}]]
+save_constraints

@@ -1,0 +1,14 @@
+ISim log file
+Running: D:\Dropbox\University\Nam 3\2024_2025_HK1\TT Thiet ke he thong va vi mach tich hop\Exercises\Extra_1\Test_Extra_1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Extra_1/Test_Extra_1_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Extra_1/Extra_1.v" Line 27.  For instance uut/Muxl/, width 3 of formal port Y is not equal to width 2 of actual signal mux3.
+WARNING: File "D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Extra_1/Extra_1.v" Line 28.  For instance uut/Mux2/, width 3 of formal port Y is not equal to width 2 of actual signal mux2.
+WARNING: File "D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Extra_1/Extra_1.v" Line 29.  For instance uut/Mux3/, width 3 of formal port Y is not equal to width 2 of actual signal mux1.
+WARNING: File "D:/Dropbox/University/Nam 3/2024_2025_HK1/TT Thiet ke he thong va vi mach tich hop/Exercises/Extra_1/Extra_1.v" Line 24.  For instance uut/Mux4/, width 3 of formal port Y is not equal to width 2 of actual signal code_out.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

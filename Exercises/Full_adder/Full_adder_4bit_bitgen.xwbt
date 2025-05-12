@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Dropbox\University\Nam 3\2024_2025_HK1\TT Thiet ke he thong va vi mach tich hop\Exercises\Full_adder\Full_adder_4bit.ncd
+OUTFILE=D:\Dropbox\University\Nam 3\2024_2025_HK1\TT Thiet ke he thong va vi mach tich hop\Exercises\Full_adder\Full_adder_4bit.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\Dropbox\University\Nam 3\2024_2025_HK1\TT Thiet ke he thong va vi mach tich hop\Exercises\Full_adder
+LICENSE=ISE
+USER_INFO=213133134_0_0_760

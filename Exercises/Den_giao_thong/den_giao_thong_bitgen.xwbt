@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\Dropbox\University\Nam 3\2024_2025_HK1\TT Thiet ke he thong va vi mach tich hop\Exercises\Den_giao_thong\den_giao_thong.ncd
+OUTFILE=E:\Dropbox\University\Nam 3\2024_2025_HK1\TT Thiet ke he thong va vi mach tich hop\Exercises\Den_giao_thong\den_giao_thong.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=E:\Dropbox\University\Nam 3\2024_2025_HK1\TT Thiet ke he thong va vi mach tich hop\Exercises\Den_giao_thong
+LICENSE=ISE
+USER_INFO=213133134_0_0_345

@@ -1,0 +1,18 @@
+NET "A[3]" LOC = N17;
+NET "A[2]" LOC = H18;
+NET "A[1]" LOC = L14;
+NET "A[0]" LOC = L13;
+NET "B[3]" LOC = V4;
+NET "B[2]" LOC = H13;
+NET "B[1]" LOC = K17;
+NET "B[0]" LOC = D18;
+NET "Sum[3]" LOC = F9;
+NET "Sum[2]" LOC = E9;
+NET "Sum[1]" LOC = D11;
+NET "Sum[0]" LOC = C11;
+
+
+NET "B[3]" PULLDOWN;
+NET "B[2]" PULLDOWN;
+NET "B[1]" PULLDOWN;
+NET "B[0]" PULLDOWN;

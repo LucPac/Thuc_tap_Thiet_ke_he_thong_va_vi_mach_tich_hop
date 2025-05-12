@@ -1,0 +1,14 @@
+
+
+NET "led[2]" LOC = E11;
+NET "led[1]" LOC = E12;
+NET "led[0]" LOC = F12;
+
+
+NET "clk" PULLDOWN;
+NET "rst" PULLUP;
+
+
+NET "clk" LOC = V16;
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "rst" LOC = L13;
